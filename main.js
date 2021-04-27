@@ -61,7 +61,7 @@ let loadImage = (src, callback) => {
 
 let imagePath = (frameNumber, animation) => {
   return (
-    "/Desktop/Martial_Arts/images/" + animation + "/" + frameNumber + ".png"
+    "/abhilashshah.github.io/tree/main/images" + animation + "/" + frameNumber + ".png"
   );
 };
 
