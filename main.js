@@ -61,7 +61,7 @@ let loadImage = (src, callback) => {
 
 let imagePath = (frameNumber, animation) => {
   return (
-    "./images/" + animation + "/" + frameNumber + ".png"
+    "/abhilashshah.github.io/images/" + animation + "/" + frameNumber + ".png"
   );
 };
 
